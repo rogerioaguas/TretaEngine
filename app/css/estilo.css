@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+/*Exemplo Css */
+
+html,body{margin:0;text-align: center;}
+ul{height: 100px;width: 100%;background: #0ca;color:#fff;font-size:30px;list-style: none;}
+ul li{display: inline;}
